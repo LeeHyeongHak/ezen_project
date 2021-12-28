@@ -111,3 +111,7 @@ create table notice(notice_num number primary key,
 create sequence seq_notice;
 
 commit;
+
+수정
+
+2차 수정
