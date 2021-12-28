@@ -113,3 +113,5 @@ create sequence seq_notice;
 commit;
 
 수정
+
+2차 수정
